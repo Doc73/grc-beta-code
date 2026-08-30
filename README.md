@@ -28,6 +28,7 @@ combinations for the plain vowels α, ι, and υ (ᾱ, ῑ, ῡ) but makes no pr
 | rough breath          |   (     |         |
 | smooth breath         |   )     |         |
 | acute                 |   /     |         |
+| grave                 |   \     |         |
 | circumflex            |   =     |         |
 | diaresis              |   +     |         |
 | macron                |   &     |         |
